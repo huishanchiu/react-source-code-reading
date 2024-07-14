@@ -12,6 +12,8 @@ Video：
 
 #### 日期：2024/07/14（日）20:30  
 #### 主持人：33  
+筆記：
+[React source code-React render & useState](https://app.heptabase.com/w/a0a01f0a94527dcbd657093e9e47270cd33c33245b8975b5d923a8638d5f718e)
 
 ---
 
